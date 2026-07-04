@@ -9,8 +9,8 @@ MOSFET과 LTspice를 공부하며 진행하는 프로젝트입니다.
 - GitHub 포트폴리오 제작
 
 ## Study Progress
-[ ] MOS Structure  
-[ ] Threshold Voltage  
-[ ] I-V Characteristics  
-[ ] Common Source Amplifier  
-[ ] LTspice Practice  
+- [ ] MOS Structure  
+- [ ] Threshold Voltage  
+- [ ] I-V Characteristics  
+- [ ] Common Source Amplifier  
+- [ ] LTspice Practice  
